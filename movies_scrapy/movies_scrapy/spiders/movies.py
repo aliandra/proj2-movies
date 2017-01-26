@@ -18,7 +18,7 @@ class MoviesSpider(scrapy.Spider):
             url = url_base + url_path
             yield scrapy.Request(url=url, callback=self.parse)
         try:
-            next_page = response.xpath('//a[contains(text(),"Next")]/@href')\
+            next_page = response.xpath('//div[@class="pagination"]/a[contains(text(),"Next")]/@href')\
                                 .extract()[0]
             list_url = 'http://www.imdb.com/list/ls057823854/'
             next_url = list_url + next_page
