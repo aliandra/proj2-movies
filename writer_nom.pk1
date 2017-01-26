@@ -1,0 +1,2596 @@
+ccopy_reg
+_reconstructor
+p0
+(cpandas.core.series
+Series
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(dp5
+S'_metadata'
+p6
+(lp7
+S'name'
+p8
+asS'_data'
+p9
+g0
+(cpandas.core.internals
+SingleBlockManager
+p10
+g2
+Ntp11
+Rp12
+((lp13
+cpandas.indexes.base
+_new_Index
+p14
+(cpandas.indexes.range
+RangeIndex
+p15
+(dp16
+S'start'
+p17
+I0
+sS'step'
+p18
+I1
+sS'stop'
+p19
+I1299
+sg8
+Nstp20
+Rp21
+a(lp22
+cnumpy.core.multiarray
+_reconstruct
+p23
+(cnumpy
+ndarray
+p24
+(I0
+tp25
+S'b'
+p26
+tp27
+Rp28
+(I1
+(I1299
+tp29
+cnumpy
+dtype
+p30
+(S'O8'
+p31
+I0
+I1
+tp32
+Rp33
+(I3
+S'|'
+p34
+NNNI-1
+I-1
+I63
+tp35
+bI00
+(lp36
+S'Preston Sturges'
+p37
+aS'Ben Hecht'
+p38
+aS'Norman Burnside'
+p39
+aS'Heinz Herald'
+p40
+aS'John Huston'
+p41
+aS'Charles Bennett'
+p42
+aS'Joan Harrison'
+p43
+aS'Charlie Chaplin'
+p44
+aS'Herman J. Mankiewicz'
+p45
+aS'Orson Welles'
+p46
+aS'Norman Krasna'
+p47
+aS'Harry Chandlee'
+p48
+aS'Abem Finkel'
+p49
+aS'John Huston'
+p50
+aS'Howard E. Koch'
+p51
+aS'Karl Tunberg'
+p52
+aS'Darrell Ware'
+p53
+aS'Paul Jarrico'
+p54
+aS'Michael Kanin'
+p55
+aS'Ring Lardner Jr.'
+p56
+aS'Michael Powell'
+p57
+aS'Emeric Pressburger'
+p58
+aS'Frank Butler'
+p59
+aS'Don Hartman'
+p60
+aS'W. R. Burnett'
+p61
+aS'Frank Butler'
+p62
+aS'George Oppenheimer'
+p63
+ag47
+aS'Dudley Nichols'
+p64
+aS'No\xc3\xabl Coward'
+p65
+aS'Lillian Hellman'
+p66
+aS'Allan Scott'
+p67
+aS'Lamar Trotti'
+p68
+ag37
+aS'Richard Connell'
+p69
+aS'Gladys Lehman'
+p70
+aS'Jerome Cady'
+p71
+aS'Richard Schweizer'
+p72
+aS'Philip Yordan'
+p73
+aS'Myles Connolly'
+p74
+aS'Milton Holmes'
+p75
+aS'Harry Kurnitz'
+p76
+aS'Muriel Box'
+p77
+aS'Sydney Box'
+p78
+aS'Raymond Chandler'
+p79
+aS'Jacques Pr\xc3\xa9vert'
+p80
+ag38
+aS'Norman Panama'
+p81
+aS'Melvin Frank'
+p82
+aS'Sidney Sheldon'
+p83
+aS'Abraham Polonsky'
+p84
+aS'Ruth Gordon'
+p85
+aS'Garson Kanin'
+p86
+ag44
+aS'Sergio Amidei'
+p87
+aS'Adolfo Franci'
+p88
+aS'C. G. Viola'
+p89
+aS'Cesare Zavattini'
+p90
+aS'Robert Pirosh'
+p91
+aS'Sidney Buchman'
+p92
+aS'V. Hayes'
+p93
+aS'Federico Fellini'
+p94
+aS'Sergio Amidei'
+p95
+aS'Marcello Pagliero'
+p96
+aS'Roberto Rossellini'
+p97
+aS'T. E. B. Clarke'
+p98
+aS'Helen Levitt'
+p99
+aS'Janice Loeb'
+p100
+aS'Sidney Meyers'
+p101
+aS'Charles Brackett'
+p102
+aS'D. M. Marshman Jr.'
+p103
+aS'Billy Wilder'
+p104
+aS'Ruth Gordon'
+p105
+aS'Garson Kanin'
+p106
+aS'Virginia Kellogg'
+p107
+aS'Bernard C. Schoenfeld'
+p108
+aS'Carl Foreman'
+p109
+aS'Joseph L. Mankiewicz'
+p110
+aS'Lesser Samuels'
+p111
+aS'Alan Jay Lerner'
+p112
+aS'Billy Wilder'
+p113
+aS'Lesser Samuels'
+p114
+aS'Walter Newman'
+p115
+aS'Philip Dunne'
+p116
+ag91
+aS'Clarence Greene'
+p117
+aS'Russell Rouse'
+p118
+ag98
+aS'Sydney Boehm'
+p119
+aS'Terence Rattigan'
+p120
+aS'Ruth Gordon'
+p121
+aS'Garson Kanin'
+p122
+aS'John Steinbeck'
+p123
+aS'Charles Brackett'
+p124
+aS'Richard L. Breen'
+p125
+aS'Walter Reisch'
+p126
+aS'Betty Comden'
+p127
+aS'Adolph Green'
+p128
+aS'Richard Murphy'
+p129
+aS'Sam Rolfe'
+p130
+aS'Harold Jack Bloom'
+p131
+aS'Millard Kaufman'
+p132
+aS'Budd Schulberg'
+p133
+aS'Joseph L. Mankiewicz'
+p134
+aS'William Rose'
+p135
+aS'Valentine Davies'
+p136
+aS'Oscar Brodney'
+p137
+aS'Norman Panama'
+p138
+aS'Melvin Frank'
+p139
+aS'Sonya Levien'
+p140
+aS'William Ludwig'
+p141
+aS'Milton Sperling'
+p142
+aS'Emmet Lavery'
+p143
+aS'Betty Comden'
+p144
+aS'Adolph Green'
+p145
+aS'Jacques Tati'
+p146
+aS'Henri Marquet'
+p147
+aS'Melville Shavelson'
+p148
+aS'Jack Rose'
+p149
+aS'Albert Lamorisse'
+p150
+aS'Robert Lewin'
+p151
+aS'Andrew L. Stone'
+p152
+aS'Federico Fellini'
+p153
+aS'Tullio Pinelli'
+p154
+ag135
+aS'George Wells'
+p155
+aS'Leonard Gershe'
+p156
+aS'Ralph Wheelwright'
+p157
+aS'R. Wright Campbell'
+p158
+aS'Ivan Goff'
+p159
+aS'Ben Roberts'
+p160
+aS'Barney Slater'
+p161
+aS'Joel Kane'
+p162
+aS'Dudley Nichols'
+p163
+aS'Federico Fellini'
+p164
+aS'Ennio Flaiano'
+p165
+aS'Tullio Pinelli'
+p166
+aS'Nathan E. Douglas'
+p167
+aS'Harold Jacob Smith'
+p168
+aS'Paddy Chayefsky'
+p169
+aS'Melville Shavelson'
+p170
+aS'Jack Rose'
+p171
+aS'James Edward Grant'
+p172
+aS'William Bowers'
+p173
+aS'Fay Kanin'
+p174
+aS'Michael Kanin'
+p175
+aS'Clarence Greene'
+p176
+aS'Maurice Richlin'
+p177
+aS'Russell Rouse'
+p178
+aS'Stanley Shapiro'
+p179
+aS'Fran\xc3\xa7ois Truffaut'
+p180
+aS'Marcel Moussy'
+p181
+aS'Ernest Lehman'
+p182
+aS'Paul King'
+p183
+aS'Joseph Stone'
+p184
+aS'Stanley Shapiro'
+p185
+aS'Maurice Richlin'
+p186
+aS'Ingmar Bergman'
+p187
+aS'I. A. L. Diamond'
+p188
+aS'Billy Wilder'
+p189
+aS'Bryan Forbes'
+p190
+aS'Richard Gregson'
+p191
+aS'Michael Craig'
+p192
+aS'Norman Panama'
+p193
+aS'Melvin Frank'
+p194
+aS'Marguerite Duras'
+p195
+aS'Jules Dassin'
+p196
+aS'William Inge'
+p197
+aS'Valentin Yoshov'
+p198
+aS'Grigori Chukhrai'
+p199
+aS'Federico Fellini'
+p200
+aS'Tullio Pinelli'
+p201
+aS'Ennio Flaiano'
+p202
+aS'Brunello Rondi'
+p203
+aS'Sergio Amidei'
+p204
+aS'Diego Fabbi'
+p205
+aS'Indro Montanelli'
+p206
+aS'Stanley Shapiro'
+p207
+aS'Paul Henning'
+p208
+aS'Ennio de Concini'
+p209
+aS'Pietro Germi'
+p210
+aS'Alfredo Giannetti'
+p211
+aS'Charles Kaufman'
+p212
+aS'Wolfgang Reinhardt'
+p213
+aS'Alain Robbe-Grillet'
+p214
+aS'Stanley Shapiro'
+p215
+aS'Nate Monaster'
+p216
+ag187
+aS'James Webb'
+p217
+aS'Federico Fellini'
+p218
+aS'Ennio Flaiano'
+p219
+aS'Tullio Pinelli'
+p220
+aS'Brunello Rondi'
+p221
+aS'Elia Kazan'
+p222
+aS'Pasquale Festa Campanile'
+p223
+aS'Massimo Franciosa'
+p224
+aS'Nanni Loy'
+p225
+aS'Vasco Pratolini'
+p226
+aS'Carlo Bernari'
+p227
+aS'Arnold Schulman'
+p228
+aS'Peter Stone'
+p229
+aS'Frank Tarloff'
+p230
+aS'Alun Owen'
+p231
+aS'Raphael Hayes'
+p232
+aS'Orville H. Hampton'
+p233
+aS'Agenore Incrocci'
+p234
+aS'Furio Scarpelli'
+p235
+aS'Mario Monicelli'
+p236
+aS'Jean-Paul Rappeneau'
+p237
+aS'Ariane Mnouchkine'
+p238
+aS'Daniel Boulanger'
+p239
+aS'Philippe de Broca'
+p240
+aS'Frederic Raphael'
+p241
+aS'Agenore Incrocci'
+p242
+aS'Furio Scarpelli'
+p243
+aS'Mario Monicelli'
+p244
+aS'Tonino Guerra'
+p245
+aS'Giorgio Salvioni'
+p246
+aS"Suso Cecchi d'Amico"
+p247
+aS'Jack Davies'
+p248
+aS'Ken Annakin'
+p249
+aS'Franklin Coen'
+p250
+aS'Frank Davis'
+p251
+aS'Jacques Demy'
+p252
+aS'Claude Lelouch'
+p253
+aS'Pierre Uytterhoeven'
+p254
+aS'Michelangelo Antonioni'
+p255
+aS'Tonino Guerra'
+p256
+aS'Edward Bond'
+p257
+aS'Billy Wilder'
+p258
+aS'I. A. L. Diamond'
+p259
+aS'Robert Ardrey'
+p260
+aS'Clint Johnston'
+p261
+aS'Don Peters'
+p262
+ag135
+aS'David Newman'
+p263
+aS'Robert Benton'
+p264
+aS'Robert Kaufman'
+p265
+aS'Norman Lear'
+p266
+aS'Jorge Sempr\xc3\xban'
+p267
+ag241
+aS'Mel Brooks'
+p268
+aS'Stanley Kubrick'
+p269
+aS'Arthur C. Clarke'
+p270
+aS'Franco Solinas'
+p271
+aS'Gillo Pontecorvo'
+p272
+aS'John Cassavetes'
+p273
+aS'Ira Wallach'
+p274
+aS'Peter Ustinov'
+p275
+aS'William Goldman'
+p276
+aS'Paul Mazursky'
+p277
+aS'Larry Tucker'
+p278
+aS'Nicola Badalucco'
+p279
+aS'Enrico Medioli'
+p280
+aS'Luchino Visconti'
+p281
+aS'Peter Fonda'
+p282
+aS'Dennis Hopper'
+p283
+aS'Terry Southern'
+p284
+aS'Walon Green'
+p285
+aS'Roy N. Sickner'
+p286
+aS'Sam Peckinpah'
+p287
+aS'Francis Ford Coppola'
+p288
+aS'Edmund H. North'
+p289
+aS'Adrien Joyce'
+p290
+aS'Bob Rafelson'
+p291
+aS'Norman Wexler'
+p292
+aS'Erich Segal'
+p293
+aS'\xc3\x89ric Rohmer'
+p294
+ag169
+aS'Elio Petri'
+p295
+aS'Ugo Pirro'
+p296
+aS'Andy Lewis'
+p297
+aS'David Lewis'
+p298
+aS'Herman Raucher'
+p299
+aS'Penelope Gilliatt'
+p300
+aS'Jeremy Larner'
+p301
+aS'Luis Bu\xc3\xb1uel'
+p302
+aS'Jean-Claude Carri\xc3\xa8re'
+p303
+aS'Terrence McCloy'
+p304
+aS'Chris Clark'
+p305
+aS'Suzanne de Passe'
+p306
+aS'Louis Malle'
+p307
+ag109
+aS'David S. Ward'
+p308
+aS'George Lucas'
+p309
+aS'Gloria Katz'
+p310
+aS'Willard Huyck'
+p311
+ag187
+aS'Steve Shagan'
+p312
+aS'Melvin Frank'
+p313
+aS'Jack Rose'
+p314
+aS'Robert Towne'
+p315
+aS'Robert Getchell'
+p316
+aS'Francis Ford Coppola'
+p317
+aS'Fran\xc3\xa7ois Truffaut'
+p318
+aS'Jean-Louis Richard'
+p319
+aS'Suzanne Schiffman'
+p320
+aS'Paul Mazursky'
+p321
+aS'Josh Greenfield'
+p322
+aS'Frank Pierson'
+p323
+aS'Federico Fellini'
+p324
+aS'Tonino Guerra'
+p325
+aS'Claude Lelouch'
+p326
+aS'Pierre Uytterhoeven'
+p327
+aS'Ted Allan'
+p328
+aS'Robert Towne'
+p329
+aS'Warren Beatty'
+p330
+ag169
+aS'Jean-Charles Tacchella'
+p331
+aS'Daniele Thompson'
+p332
+aS'Walter Bernstein'
+p333
+aS'Sylvester Stallone'
+p334
+aS'Lina Wertm\xc3\xbcller'
+p335
+aS'Woody Allen'
+p336
+aS'Marshall Brickman'
+p337
+aS'Neil Simon'
+p338
+aS'Robert Benton'
+p339
+aS'George Lucas'
+p340
+aS'Arthur Laurents'
+p341
+aS'Robert C. Jones'
+p342
+aS'Waldo Salt'
+p343
+aS'Nancy Dowd'
+p344
+ag187
+aS'Deric Washburn'
+p345
+aS'Michael Cimino'
+p346
+aS'Louis Garfinkle'
+p347
+aS'Quinn K. Redeker'
+p348
+aS'Woody Allen'
+p349
+aS'Paul Mazursky'
+p350
+aS'Steve Tesich'
+p351
+aS'Robert Alan Aurthur'
+p352
+aS'Bob Fosse'
+p353
+aS'Valerie Curtin'
+p354
+aS'Barry Levinson'
+p355
+aS'Mike Gray'
+p356
+aS'T. S. Cook'
+p357
+aS'James Bridges'
+p358
+aS'Woody Allen'
+p359
+aS'Marshall Brickman'
+p360
+aS'Bo Goldman'
+p361
+aS'W. D. Richter'
+p362
+aS'Arthur A. Ross'
+p363
+aS'Christopher Gore'
+p364
+aS'Jean Gruault'
+p365
+aS'Henri Laborit'
+p366
+aS'Nancy Meyers'
+p367
+aS'Charles Shyer'
+p368
+aS'Harvey Miller'
+p369
+aS'Colin Welland'
+p370
+aS'Kurt Luedtke'
+p371
+aS'Steve Gordon'
+p372
+aS'John Guare'
+p373
+aS'Warren Beatty'
+p374
+aS'Trevor Griffiths'
+p375
+aS'John Briley'
+p376
+aS'Barry Levinson'
+p377
+aS'Melissa Mathison'
+p378
+aS'Douglas Day Stewart'
+p379
+aS'Larry Gelbart'
+p380
+aS'Murray Schisgal'
+p381
+aS'Don McGuire'
+p382
+aS'Horton Foote'
+p383
+aS'Lawrence Kasdan'
+p384
+aS'Barbara Benedek'
+p385
+ag187
+aS'Nora Ephron'
+p386
+aS'Alice Arlen'
+p387
+aS'Lawrence Lasker'
+p388
+aS'Walter F. Parkes'
+p389
+ag339
+aS'Daniel Petrie Jr.'
+p390
+aS'Danilo Bach'
+p391
+ag349
+aS'Gregory Nava'
+p392
+aS'Anna Thomas'
+p393
+aS'Lowell Ganz'
+p394
+aS'Babaloo Mandel'
+p395
+aS'Bruce Jay Friedman'
+p396
+aS'Brian Grazer'
+p397
+aS'William Kelley'
+p398
+aS'Earl Wallace'
+p399
+aS'Pamela Wallace'
+p400
+aS'Robert Zemeckis'
+p401
+aS'Bob Gale'
+p402
+aS'Terry Gilliam'
+p403
+aS'Tom Stoppard'
+p404
+aS'Charles McKeown'
+p405
+aS'Luis Puenzo'
+p406
+aS'A\xc3\xadda Bortnik'
+p407
+ag349
+ag349
+aS'Paul Hogan'
+p408
+aS'Ken Shadie'
+p409
+aS'John Cornell'
+p410
+aS'Hanif Kureishi'
+p411
+aS'Oliver Stone'
+p412
+aS'Oliver Stone'
+p413
+aS'Richard Boyle'
+p414
+aS'John Patrick Shanley'
+p415
+ag307
+aS'James L. Brooks'
+p416
+aS'John Boorman'
+p417
+ag349
+aS'Ronald Bass'
+p418
+aS'Barry Morrow'
+p419
+aS'Gary Ross'
+p420
+aS'Anne Spielberg'
+p421
+aS'Ron Shelton'
+p422
+aS'John Cleese'
+p423
+aS'Charles Crichton'
+p424
+aS'Naomi Foner'
+p425
+aS'Tom Schulman'
+p426
+ag349
+aS'Spike Lee'
+p427
+aS'Steven Soderbergh'
+p428
+aS'Nora Ephron'
+p429
+aS'Bruce Joel Rubin'
+p430
+ag349
+ag377
+aS'Peter Weir'
+p431
+aS'Whit Stillman'
+p432
+aS'Callie Khouri'
+p433
+aS'John Singleton'
+p434
+aS'James Toback'
+p435
+aS'Richard LaGravenese'
+p436
+aS'Lawrence Kasdan'
+p437
+aS'Meg Kasdan'
+p438
+aS'Neil Jordan'
+p439
+ag349
+aS'Nick Enright'
+p440
+aS'George Miller'
+p441
+aS'John Sayles'
+p442
+aS'David Webb Peoples'
+p443
+aS'Jane Campion'
+p444
+aS'Gary Ross'
+p445
+aS'Jeff Maguire'
+p446
+aS'Ron Nyswaner'
+p447
+aS'Jeff Arch'
+p448
+aS'Nora Ephron'
+p449
+aS'David S. Ward'
+p450
+aS'Quentin Tarantino'
+p451
+aS'Roger Avary'
+p452
+aS'Woody Allen'
+p453
+aS'Douglas McGrath'
+p454
+aS'Richard Curtis'
+p455
+aS'Peter Jackson'
+p456
+aS'Fran Walsh'
+p457
+aS'Krzysztof Kie\xc5\x9blowski'
+p458
+aS'Krzysztof Piesiewicz'
+p459
+aS'Christopher McQuarrie'
+p460
+aS'Randall Wallace'
+p461
+ag349
+aS'Stephen J. Rivele'
+p462
+aS'Christopher Wilkinson'
+p463
+aS'Oliver Stone'
+p464
+aS'Joss Whedon'
+p465
+aS'Andrew Stanton'
+p466
+aS'Joel Cohen'
+p467
+aS'Alec Sokolow'
+p468
+aS'John Lasseter'
+p469
+aS'Pete Docter'
+p470
+aS'Joe Ranft'
+p471
+aS'Joel Coen and Ethan Coen'
+p472
+aS'Cameron Crowe'
+p473
+ag442
+aS'Mike Leigh'
+p474
+aS'Jan Sardi'
+p475
+aS'Scott Hicks'
+p476
+aS'Ben Affleck'
+p477
+aS'Matt Damon'
+p478
+aS'Mark Andrus'
+p479
+aS'James L. Brooks'
+p480
+aS'Paul Thomas Anderson'
+p481
+ag349
+aS'Simon Beaufoy'
+p482
+aS'Marc Norman'
+p483
+aS'Tom Stoppard'
+p484
+aS'Warren Beatty'
+p485
+aS'Jeremy Pikser'
+p486
+aS'Roberto Benigni'
+p487
+aS'Vincenzo Cerami'
+p488
+aS'Robert Rodat'
+p489
+aS'Andrew Niccol'
+p490
+aS'Alan Ball'
+p491
+aS'Charlie Kaufman'
+p492
+ag481
+aS'M. Night Shyamalan'
+p493
+ag474
+ag473
+aS'Lee Hall'
+p494
+aS'Susannah Grant'
+p495
+aS'David Franzoni'
+p496
+aS'John Logan'
+p497
+aS'William Nicholson'
+p498
+aS'Kenneth Lonergan'
+p499
+aS'Julian Fellowes'
+p500
+aS'Jean-Pierre Jeunet'
+p501
+aS'Guillaume Laurant'
+p502
+aS'Christopher Nolan'
+p503
+aS'Jonathan Nolan'
+p504
+aS'Milo Addica'
+p505
+aS'Will Rokos'
+p506
+aS'Wes Anderson'
+p507
+aS'Owen Wilson'
+p508
+aS'Pedro Almod\xc3\xb3var'
+p509
+aS'Todd Haynes'
+p510
+aS'Jay Cocks'
+p511
+aS'Steven Zaillian'
+p512
+aS'Kenneth Lonergan'
+p513
+aS'Nia Vardalos'
+p514
+aS'Alfonso Cuar\xc3\xb3n'
+p515
+aS'Carlos Cuar\xc3\xb3n'
+p516
+aS'Sofia Coppola'
+p517
+aS'Denys Arcand'
+p518
+aS'Steven Knight'
+p519
+aS'Andrew Stanton'
+p520
+aS'Bob Peterson'
+p521
+aS'David Reynolds'
+p522
+aS'Jim Sheridan'
+p523
+aS'Kirsten Sheridan'
+p524
+aS'Naomi Sheridan'
+p525
+aS'Charlie Kaufman'
+p526
+aS'Michel Gondry'
+p527
+aS'Pierre Bismuth'
+p528
+aS'John Logan'
+p529
+aS'Terry George'
+p530
+aS'Keir Pearson'
+p531
+aS'Brad Bird'
+p532
+ag474
+aS'Paul Haggis'
+p533
+aS'Bobby Moresco'
+p534
+aS'George Clooney'
+p535
+aS'Grant Heslov'
+p536
+ag349
+aS'Noah Baumbach'
+p537
+aS'Stephen Gaghan'
+p538
+aS'Michael Arndt'
+p539
+aS'Guillermo Arriaga'
+p540
+aS'Iris Yamashita'
+p541
+aS'Paul Haggis'
+p542
+aS'Guillermo del Toro'
+p543
+aS'Peter Morgan'
+p544
+aS'Diablo Cody'
+p545
+aS'Nancy Oliver'
+p546
+aS'Tony Gilroy'
+p547
+aS'Brad Bird'
+p548
+aS'Jan Pinkava'
+p549
+aS'Jim Capobianco'
+p550
+aS'Tamara Jenkins'
+p551
+aS'Dustin Lance Black'
+p552
+aS'Courtney Hunt'
+p553
+ag474
+aS'Martin McDonagh'
+p554
+aS'Andrew Stanton'
+p555
+aS'Jim Reardon'
+p556
+aS'Pete Docter'
+p557
+aS'Mark Boal'
+p558
+aS'Quentin Tarantino'
+p559
+aS'Alessandro Camon'
+p560
+aS'Oren Moverman'
+p561
+aS'Joel Coen Ethan Coen'
+p562
+aS'Bob Peterson'
+p563
+aS'Pete Docter'
+p564
+aS'Tom McCarthy'
+p565
+aS'David Seidler'
+p566
+ag474
+aS'Scott Silver'
+p567
+aS'Paul Tamasy'
+p568
+aS'Eric Johnson'
+p569
+aS'Keith Dorrington'
+p570
+aS'Christopher Nolan'
+p571
+aS'Lisa Cholodenko'
+p572
+aS'Stuart Blumberg'
+p573
+ag349
+aS'Michel Hazanavicius'
+p574
+aS'Kristen Wiig'
+p575
+aS'Annie Mumolo'
+p576
+aS'J. C. Chandor'
+p577
+aS'Asghar Farhadi'
+p578
+ag559
+aS'Michael Haneke'
+p579
+aS'John Gatins'
+p580
+aS'Wes Anderson'
+p581
+aS'Roman Coppola'
+p582
+ag558
+aS'Spike Jonze'
+p583
+aS'Eric Warren Singer'
+p584
+aS'David O. Russell'
+p585
+ag349
+aS'Craig Borten'
+p586
+aS'Melisa Wallack'
+p587
+aS'Bob Nelson'
+p588
+aS'Alejandro G. I\xc3\xb1\xc3\xa1rritu'
+p589
+aS'Nicol\xc3\xa1s Giacobone'
+p590
+aS'Alexander Dinelaris Jr.'
+p591
+aS'Armando Bo'
+p592
+aS'Richard Linklater'
+p593
+aS'E. Max Frye'
+p594
+aS'Dan Futterman'
+p595
+aS'Wes Anderson'
+p596
+aS'Hugo Guinness'
+p597
+aS'Dan Gilroy'
+p598
+aS'Tom McCarthy'
+p599
+aS'Josh Singer'
+p600
+aS'Matt Charman'
+p601
+aS'Joel Coen Ethan Coen'
+p602
+aS'Alex Garland'
+p603
+aS'Josh Cooley'
+p604
+aS'Ronnie del Carmen'
+p605
+aS'Pete Docter'
+p606
+aS'Meg LeFauve'
+p607
+aS'Andrea Berloff'
+p608
+aS'Jonathan Herman'
+p609
+aS'S. Leigh Savidge'
+p610
+aS'Alan Wenkus'
+p611
+aS'Taylor Sheridan'
+p612
+aS'Damien Chazelle'
+p613
+aS'Yorgos Lanthimos'
+p614
+aS'Efthimis Filippou'
+p615
+ag499
+aS'Mike Mills'
+p616
+aS'Benjamin Glazer'
+p617
+aS'Anthony Coldeway'
+p618
+aS'Alfred A. Cohn'
+p619
+aS'Hanns Kr\xc3\xa4ly'
+p620
+aS'Elliott J. Clawson'
+p621
+aS'Tom Barry'
+p622
+ag620
+ag621
+aS'Josephine Lovett'
+p623
+ag621
+ag621
+ag622
+aS'Bess Meredyth'
+p624
+ag624
+aS'Frances Marion'
+p625
+aS'Maxwell Anderson'
+p626
+aS'George Abbott'
+p627
+aS'Del Andrews'
+p628
+aS'Julien Josephson'
+p629
+aS'John Meehan'
+p630
+aS'Howard Estabrook'
+p631
+ag631
+aS'Seton I. Miller'
+p632
+aS'Fred Niblo Jr.'
+p633
+aS'Horace Jackson'
+p634
+aS'Francis Edward Faragoh'
+p635
+aS'Robert N. Lee'
+p636
+aS'Joseph L. Mankiewicz'
+p637
+aS'Sam Mintz'
+p638
+aS'Edwin J. Burke'
+p639
+aS'Sidney Howard'
+p640
+aS'Percy Heath'
+p641
+aS'Samuel Hoffenstein'
+p642
+aS'Victor Heerman'
+p643
+aS'Sarah Y. Mason'
+p644
+aS'Robert Riskin'
+p645
+aS'Paul Green'
+p646
+aS'Sonya Levien'
+p647
+ag645
+aS'Albert Hackett'
+p648
+aS'Frances Goodrich'
+p649
+ag38
+aS'Dudley Nichols'
+p650
+aS'Waldemar Young'
+p651
+aS'John L. Balderston'
+p652
+aS'Achmed Abdullah'
+p653
+aS'Grover Jones'
+p654
+aS'William Slavens McNutt'
+p655
+aS'Talbot Jennings'
+p656
+aS'Jules Furthman'
+p657
+aS'Carey Wilson'
+p658
+aS'Casey Robinson'
+p659
+aS'Pierre Collings'
+p660
+aS'Sheridan Gibney'
+p661
+aS'Frances Goodrich'
+p662
+aS'Albert Hackett'
+p663
+ag640
+ag645
+aS'Morrie Ryskind'
+p664
+aS'Eric Hatch'
+p665
+aS'Heinz Herald'
+p666
+aS'Geza Herczeg'
+p667
+aS'Norman Reilly Raine'
+p668
+aS'Vi\xc3\xb1a Delmar'
+p669
+aS'Marc Connelly'
+p670
+aS'John Lee Mahin'
+p671
+aS'Dale Van Every'
+p672
+aS'Morrie Ryskind'
+p673
+aS'Anthony Veiller'
+p674
+aS'Dorothy Parker'
+p675
+aS'Alan Campbell'
+p676
+aS'Robert Carson'
+p677
+aS'Ian Dalrymple'
+p678
+aS'Cecil Lewis'
+p679
+aS'W. P. Lipscomb'
+p680
+aS'George Bernard Shaw'
+p681
+aS'John Meehan'
+p682
+aS'Dore Schary'
+p683
+aS'Ian Dalrymple'
+p684
+aS'Frank Wead'
+p685
+aS'Elizabeth Hill'
+p686
+aS'Lenore J. Coffee'
+p687
+aS'Julius J. Epstein'
+p688
+ag645
+aS'Sidney Howard'
+p689
+aS'R. C. Sherriff'
+p690
+aS'Claudine West'
+p691
+aS'Eric Maschwitz'
+p692
+ag92
+aS'Charles Brackett'
+p693
+aS'Billy Wilder'
+p694
+aS'Walter Reisch'
+p695
+aS'Charles MacArthur'
+p696
+aS'Ben Hecht'
+p697
+aS'Donald Ogden Stewart'
+p698
+aS'Nunnally Johnson'
+p699
+aS'Dalton Trumbo'
+p700
+ag64
+aS'Robert E. Sherwood'
+p701
+aS'Joan Harrison'
+p702
+aS'Sidney Buchman'
+p703
+aS'Seton I. Miller'
+p704
+aS'Charles Brackett'
+p705
+aS'Billy Wilder'
+p706
+ag116
+ag66
+aS'John Huston'
+p707
+aS'George Froeschel'
+p708
+aS'James Hilton'
+p709
+aS'Claudine West'
+p710
+aS'Arthur Wimperis'
+p711
+aS'Rodney Ackland'
+p712
+aS'Emeric Pressburger'
+p713
+aS'Herman J. Mankiewicz'
+p714
+aS'Jo Swerling'
+p715
+aS'George Froeschel'
+p716
+aS'Claudine West'
+p717
+aS'Arthur Wimperis'
+p718
+aS'Sidney Buchman'
+p719
+aS'Irwin Shaw'
+p720
+aS'Philip G. Epstein'
+p721
+aS'Julius J. Epstein'
+p722
+aS'Howard Koch'
+p723
+ag699
+aS'Richard Flournoy'
+p724
+aS'Lewis R. Foster'
+p725
+aS'Frank Ross'
+p726
+aS'Robert Russell'
+p727
+aS'George Seaton'
+p728
+aS'Dashiell Hammett'
+p729
+aS'Frank Butler'
+p730
+aS'Frank Cavett'
+p731
+aS'Billy Wilder'
+p732
+aS'Raymond Chandler'
+p733
+aS'John Van Druten'
+p734
+aS'Walter Reisch'
+p735
+aS'John L. Balderston'
+p736
+aS'Jay Dratler'
+p737
+aS'Samuel Hoffenstein'
+p738
+aS'Betty Reinhardt'
+p739
+aS'Irving Brecher'
+p740
+aS'Fred F. Finklehoffe'
+p741
+aS'Charles Brackett'
+p742
+aS'Billy Wilder'
+p743
+aS'Ranald MacDougall'
+p744
+aS'Albert Maltz'
+p745
+aS'Leopold Atlas'
+p746
+aS'Guy Endore'
+p747
+aS'Philip Stevenson'
+p748
+aS'Frank Davis'
+p749
+aS'Tess Slesinger'
+p750
+aS'Robert Sherwood'
+p751
+aS'Sally Benson'
+p752
+aS'Talbot Jennings'
+p753
+aS'Anthony Havelock-Allan'
+p754
+aS'David Lean'
+p755
+aS'Ronald Neame'
+p756
+aS'Anthony Veiller'
+p757
+aS'Sergio Amidei'
+p758
+aS'Federico Fellini'
+p759
+ag728
+aS'Sally Benson'
+p760
+aS'Talbot Jennings'
+p761
+aS'John Paxton'
+p762
+aS'Moss Hart'
+p763
+aS'David Lean'
+p764
+aS'Ronald Neame'
+p765
+aS'Anthony Havelock-Allan'
+p766
+ag707
+aS'Charles Brackett'
+p767
+aS'Billy Wilder'
+p768
+aS'Richard L. Breen'
+p769
+aS'Irma von Cube'
+p770
+aS'Allen Vincent'
+p771
+aS'Richard Schweizer'
+p772
+aS'David Wechsler'
+p773
+aS'Frank Partos'
+p774
+aS'Millen Brand'
+p775
+ag134
+aS'Robert Rossen'
+p776
+aS'Cesare Zavattini'
+p777
+ag109
+aS'Graham Greene'
+p778
+ag134
+aS'Ben Maddow'
+p779
+aS'John Huston'
+p780
+aS'Albert Mannheimer'
+p781
+aS'Albert Maltz'
+p782
+aS'Frances Goodrich'
+p783
+aS'Albert Hackett'
+p784
+aS'Harry Brown'
+p785
+aS'Michael Wilson'
+p786
+aS'James Agee'
+p787
+aS'John Huston'
+p788
+aS'Robert Wyler'
+p789
+aS'Philip Yordan'
+p790
+aS'Jacques Natanson'
+p791
+aS'Max Oph\xc3\xbcls'
+p792
+aS'Tennessee Williams'
+p793
+aS'Charles Schnee'
+p794
+aS'Michael Wilson'
+p795
+ag109
+aS'John Dighton'
+p796
+aS'Roger MacDougall'
+p797
+aS'Alexander Mackendrick'
+p798
+aS'Frank S. Nugent'
+p799
+aS'Daniel Taradash'
+p800
+aS'Eric Ambler'
+p801
+aS'Helen Deutsch'
+p802
+aS'Ian McLellan Hunter'
+p803
+aS'John Dighton'
+p804
+aS'A. B. Guthrie Jr.'
+p805
+ag728
+aS'Stanley Roberts'
+p806
+aS'John Michael Hayes'
+p807
+aS'Billy Wilder'
+p808
+aS'Samuel Taylor'
+p809
+aS'Ernest Lehman'
+p810
+aS'Albert Hackett'
+p811
+aS'Frances Goodrich'
+p812
+aS'Dorothy Kingsley'
+p813
+ag169
+ag132
+aS'Richard Brooks'
+p814
+aS'Paul Osborn'
+p815
+aS'Daniel Fuchs'
+p816
+aS'Isobel Lennart'
+p817
+aS'John Farrow'
+p818
+aS'S. J. Perelman'
+p819
+aS'James Poe'
+p820
+ag793
+aS'Michael Wilson'
+p821
+aS'Fred Guiol'
+p822
+aS'Ivan Moffat'
+p823
+aS'Norman Corwin'
+p824
+aS'Pierre Boulle'
+p825
+aS'Carl Foreman'
+p826
+aS'Michael Wilson'
+p827
+aS'John Huston'
+p828
+aS'John Lee Mahin'
+p829
+ag807
+ag815
+aS'Reginald Rose'
+p830
+ag112
+aS'Richard Brooks'
+p831
+aS'James Poe'
+p832
+aS'Alec Guinness'
+p833
+aS'Nelson Gidding'
+p834
+aS'Don Mankiewicz'
+p835
+aS'John Gay'
+p836
+aS'Terence Rattigan'
+p837
+aS'Neil Paterson'
+p838
+aS'Wendell Mayes'
+p839
+aS'Karl Tunberg'
+p840
+aS'Robert Anderson'
+p841
+aS'Billy Wilder'
+p842
+aS'I. A. L. Diamond'
+p843
+ag814
+aS'Nedrick Young'
+p844
+aS'Harold Jacob Smith'
+p845
+aS'Gavin Lambert'
+p846
+aS'T. E. B. Clarke'
+p847
+aS'Isobel Lennart'
+p848
+aS'James Kennaway'
+p849
+aS'Abby Mann'
+p850
+aS'George Axelrod'
+p851
+ag109
+aS'Sydney Carroll'
+p852
+aS'Robert Rossen'
+p853
+ag182
+ag383
+aS'Eleanor Perry'
+p854
+aS'Robert Bolt'
+p855
+aS'Michael Wilson'
+p856
+aS'Vladimir Nabokov'
+p857
+aS'William Gibson'
+p858
+aS'John Osborne'
+p859
+aS'Richard L. Breen'
+p860
+aS'Henry Ephron'
+p861
+aS'Phoebe Ephron'
+p862
+aS'Irving Ravetch'
+p863
+aS'Harriet Frank Jr.'
+p864
+aS'James Poe'
+p865
+aS'Serge Bourguignon'
+p866
+aS'Antoine Tudal'
+p867
+aS'Edward Anhalt'
+p868
+aS'Stanley Kubrick'
+p869
+aS'Terry Southern'
+p870
+aS'Peter George'
+p871
+aS'Bill Walsh'
+p872
+aS'Don DaGradi'
+p873
+ag112
+aS'Michael Cacoyannis'
+p874
+aS'Robert Bolt'
+p875
+aS'Walter Newman'
+p876
+aS'Frank R. Pierson'
+p877
+aS'Stanley Mann'
+p878
+aS'John Kohn'
+p879
+ag850
+aS'Herb Gardner'
+p880
+ag875
+aS'Bill Naughton'
+p881
+ag814
+ag135
+ag182
+aS'Stirling Silliphant'
+p882
+aS'Donn Pearce'
+p883
+aS'Frank R. Pierson'
+p884
+aS'Calder Willingham'
+p885
+aS'Buck Henry'
+p886
+ag814
+aS'Joseph Strick'
+p887
+aS'Fred Haines'
+p888
+aS'James Goldman'
+p889
+ag338
+aS'Vernon Harris'
+p890
+aS'Stewart Stern'
+p891
+aS'Roman Polanski'
+p892
+aS'Waldo Salt'
+p893
+aS'John Hale'
+p894
+aS'Bridget Boland'
+p895
+aS'Richard Sokolove'
+p896
+ag228
+aS'James Poe'
+p897
+aS'Robert E. Thompson'
+p898
+aS'Jorge Sempr\xc3\xban'
+p899
+aS'Costa-Gavras'
+p900
+aS'Ring Lardner Jr.'
+p901
+ag728
+ag841
+aS'Joseph Bologna'
+p902
+aS'David Zelag Goodman'
+p903
+aS'Ren\xc3\xa9e Taylor'
+p904
+aS'Larry Kramer'
+p905
+aS'Ernest Tidyman'
+p906
+aS'Stanley Kubrick'
+p907
+aS'Bernardo Bertolucci'
+p908
+aS'Ugo Pirro'
+p909
+aS'Vittorio Bonicelli'
+p910
+aS'Larry McMurtry'
+p911
+aS'Peter Bogdanovich'
+p912
+aS'Mario Puzo'
+p913
+aS'Francis Ford Coppola'
+p914
+aS'Jay Presson Allen'
+p915
+aS'Bengt Forslund'
+p916
+aS'Jan Troell'
+p917
+aS'Julius J. Epstein'
+p918
+aS'Lonne Elder III'
+p919
+aS'William Peter Blatty'
+p920
+ag315
+aS'James Bridges'
+p921
+aS'Alvin Sargent'
+p922
+aS'Waldo Salt'
+p923
+aS'Norman Wexler'
+p924
+aS'Francis Ford Coppola'
+p925
+aS'Mario Puzo'
+p926
+aS'Lionel Chetwynd'
+p927
+aS'Mordecai Richler'
+p928
+aS'Julian Barry'
+p929
+aS'Paul Dehn'
+p930
+aS'Gene Wilder'
+p931
+aS'Mel Brooks'
+p932
+aS'Bo Goldman'
+p933
+aS'Laurence Hauben'
+p934
+ag907
+aS'John Huston'
+p935
+aS'Gladys Hill'
+p936
+aS'Ruggero Maccari'
+p937
+aS'Dino Risi'
+p938
+ag338
+ag276
+ag316
+aS'Federico Fellini'
+p939
+aS'Bernardino Zapponi'
+p940
+aS'Nicholas Meyer'
+p941
+aS'David Butler'
+p942
+aS'Steve Shagan'
+p943
+ag922
+aS'Peter Shaffer'
+p944
+aS'Gavin Lambert'
+p945
+aS'Lewis John Carlino'
+p946
+aS'Larry Gelbart'
+p947
+aS'Luis Bu\xc3\xb1uel'
+p948
+aS'Jean-Claude Carri\xc3\xa8re'
+p949
+ag412
+aS'Walter Newman'
+p950
+ag338
+aS'Elaine May'
+p951
+aS'Warren Beatty'
+p952
+aS'Bernard Slade'
+p953
+ag339
+aS'John Milius'
+p954
+aS'Francis Ford Coppola'
+p955
+aS'Marcello Danon'
+p956
+aS'\xc3\x89douard Molinaro'
+p957
+aS'Jean Poiret'
+p958
+aS'Francis Veber'
+p959
+aS'Allan Burns'
+p960
+aS'Harriet Frank Jr.'
+p961
+aS'Irving Ravetch'
+p962
+ag922
+aS'Jonathan Hardy'
+p963
+aS'David Stevens'
+p964
+aS'Bruce Beresford'
+p965
+aS'Tom Rickman'
+p966
+aS'Christopher De Vore'
+p967
+aS'Eric Bergren'
+p968
+aS'David Lynch'
+p969
+aS'Lawrence B. Marcus'
+p970
+aS'Richard Rush'
+p971
+aS'Ernest Thompson'
+p972
+aS'Harold Pinter'
+p973
+aS'Dennis Potter'
+p974
+aS'Jay Presson Allen'
+p975
+aS'Sidney Lumet'
+p976
+aS'Michael Weller'
+p977
+aS'Costa-Gavras'
+p978
+aS'Donald E. Stewart'
+p979
+aS'Wolfgang Petersen'
+p980
+aS'Alan J. Pakula'
+p981
+aS'David Mamet'
+p982
+aS'Blake Edwards'
+p983
+ag416
+ag973
+aS'Ronald Harwood'
+p984
+aS'Willy Russell'
+p985
+ag918
+ag944
+aS'P.H. Vazak[15]'
+p986
+aS'Michael Austin'
+p987
+aS'Bruce Robinson'
+p988
+aS'David Lean'
+p989
+aS'Charles Fuller'
+p990
+ag371
+aS'Menno Meyjes'
+p991
+aS'Leonard Schrader'
+p992
+aS'Richard Condon'
+p993
+aS'Janet Roach'
+p994
+ag383
+aS'Ruth Prawer Jhabvala'
+p995
+aS'Hesper Anderson'
+p996
+aS'Mark Medoff'
+p997
+aS'Richard Price'
+p998
+aS'Beth Henley'
+p999
+aS'Raynold Gideon'
+p1000
+aS'Bruce A. Evans'
+p1001
+aS'Bernardo Bertolucci'
+p1002
+aS'Mark Peploe'
+p1003
+aS'Tony Huston'
+p1004
+aS'James Dearden'
+p1005
+aS'Gustav Hasford'
+p1006
+aS'Michael Herr'
+p1007
+aS'Stanley Kubrick'
+p1008
+aS'Brasse Br\xc3\xa4nnstr\xc3\xb6m'
+p1009
+aS'Per Berglund'
+p1010
+aS'Lasse Hallstr\xc3\xb6m'
+p1011
+aS'Reidar J\xc3\xb6nsson'
+p1012
+aS'Christopher Hampton'
+p1013
+aS'Frank Galati'
+p1014
+aS'Lawrence Kasdan'
+p1015
+aS'Anna Hamilton Phelan'
+p1016
+aS'Tab Murphy'
+p1017
+aS'Christine Edzard'
+p1018
+aS'Jean-Claude Carri\xc3\xa8re'
+p1019
+aS'Philip Kaufman'
+p1020
+aS'Alfred Uhry'
+p1021
+aS'Ron Kovic'
+p1022
+aS'Oliver Stone'
+p1023
+aS'Paul Mazursky'
+p1024
+aS'Roger L. Simon'
+p1025
+aS'Phil Alden Robinson'
+p1026
+aS'Shane Connaughton'
+p1027
+aS'Jim Sheridan'
+p1028
+aS'Michael Blake'
+p1029
+aS'Steven Zaillian'
+p1030
+aS'Nicholas Pileggi'
+p1031
+aS'Martin Scorsese'
+p1032
+aS'Donald E. Westlake'
+p1033
+aS'Nicholas Kazan'
+p1034
+aS'Ted Tally'
+p1035
+aS'Agnieszka Holland'
+p1036
+aS'Fannie Flagg'
+p1037
+aS'Carol Sobieski'
+p1038
+aS'Oliver Stone'
+p1039
+aS'Zachary Sklar'
+p1040
+aS'Pat Conroy'
+p1041
+aS'Becky Johnston'
+p1042
+ag995
+aS'Peter Barnes'
+p1043
+aS'Michael Tolkin'
+p1044
+aS'Richard Friedenberg'
+p1045
+ag361
+ag1030
+aS'Jay Cocks'
+p1046
+aS'Martin Scorsese'
+p1047
+aS'Terry George'
+p1048
+aS'Jim Sheridan'
+p1049
+ag995
+aS'William Nicholson'
+p1050
+aS'Eric Roth'
+p1051
+aS'Alan Bennett'
+p1052
+ag339
+aS'Paul Attanasio'
+p1053
+aS'Frank Darabont'
+p1054
+aS'Emma Thompson'
+p1055
+aS'William Broyles Jr.'
+p1056
+aS'Al Reinert'
+p1057
+aS'George Miller'
+p1058
+aS'Chris Noonan'
+p1059
+aS'Mike Figgis'
+p1060
+aS'Anna Pavignano'
+p1061
+aS'Michael Radford'
+p1062
+aS'Furio Scarpelli'
+p1063
+aS'Giacomo Scarpelli'
+p1064
+aS'Massimo Troisi'
+p1065
+aS'Billy Bob Thornton'
+p1066
+aS'Arthur Miller'
+p1067
+aS'Anthony Minghella'
+p1068
+aS'Kenneth Branagh'
+p1069
+aS'John Hodge'
+p1070
+aS'Curtis Hanson'
+p1071
+aS'Brian Helgeland'
+p1072
+ag1053
+aS'Atom Egoyan'
+p1073
+aS'Hilary Henkin'
+p1074
+aS'David Mamet'
+p1075
+aS'Hossein Amini'
+p1076
+aS'Bill Condon'
+p1077
+aS'Scott Frank'
+p1078
+aS'Elaine May'
+p1079
+aS'Scott Smith'
+p1080
+aS'Terrence Malick'
+p1081
+aS'John Irving'
+p1082
+aS'Alexander Payne'
+p1083
+aS'Jim Taylor'
+p1084
+ag1054
+aS'Michael Mann'
+p1085
+aS'Eric Roth'
+p1086
+ag1068
+ag538
+aS'Robert Nelson Jacobs'
+p1087
+aS'Hui-Ling Wang'
+p1088
+aS'James Schamus'
+p1089
+aS'Kuo Jung Tsai'
+p1090
+ag562
+aS'Steve Kloves'
+p1091
+aS'Akiva Goldsman'
+p1092
+aS'Daniel Clowes'
+p1093
+aS'Terry Zwigoff'
+p1094
+aS'Todd Field'
+p1095
+aS'Rob Festinger'
+p1096
+aS'Fran Walsh'
+p1097
+aS'Philippa Boyens'
+p1098
+aS'Peter Jackson'
+p1099
+aS'Ted Elliott'
+p1100
+aS'Terry Rossio'
+p1101
+aS'Joe Stillman'
+p1102
+aS'Roger S. H. Schulman'
+p1103
+ag984
+aS'Peter Hedges'
+p1104
+aS'Chris Weitz'
+p1105
+aS'Paul Weitz'
+p1106
+aS'Charlie Kaufman'
+p1107
+aS'Donald Kaufman'
+p1108
+ag1077
+aS'David Hare'
+p1109
+aS'Fran Walsh'
+p1110
+aS'Philippa Boyens'
+p1111
+aS'Peter Jackson'
+p1112
+aS'Shari Springer Berman Robert Pulcini'
+p1113
+aS'Br\xc3\xa1ulio Mantovani'
+p1114
+aS'Brian Helgeland'
+p1115
+ag445
+aS'Alexander Payne'
+p1116
+aS'Jim Taylor'
+p1117
+aS'Richard Linklater'
+p1118
+aS'Kim Krizan'
+p1119
+aS'Julie Delpy'
+p1120
+aS'Ethan Hawke'
+p1121
+aS'David Magee'
+p1122
+aS'Paul Haggis'
+p1123
+aS'Jos\xc3\xa9 Rivera'
+p1124
+aS'Larry McMurtry'
+p1125
+aS'Diana Ossana'
+p1126
+aS'Dan Futterman'
+p1127
+aS'Jeffrey Caine'
+p1128
+aS'Josh Olson'
+p1129
+aS'Tony Kushner'
+p1130
+aS'Eric Roth'
+p1131
+aS'William Monahan'
+p1132
+aS'Sacha Baron Cohen'
+p1133
+aS'Peter Baynham'
+p1134
+aS'Anthony Hines'
+p1135
+aS'Dan Mazer'
+p1136
+aS'Todd Phillips'
+p1137
+aS'Alfonso Cuar\xc3\xb3n'
+p1138
+aS'Timothy J. Sexton'
+p1139
+aS'David Arata'
+p1140
+aS'Mark Fergus'
+p1141
+aS'Hawk Ostby'
+p1142
+aS'Todd Field'
+p1143
+aS'Tom Perrotta'
+p1144
+aS'Patrick Marber'
+p1145
+ag562
+ag1013
+aS'Sarah Polley'
+p1146
+ag984
+ag481
+ag482
+aS'Eric Roth'
+p1147
+aS'Robin Swicord'
+p1148
+ag415
+ag544
+ag1109
+aS'Geoffrey Fletcher'
+p1149
+aS'Neill Blomkamp'
+p1150
+aS'Terri Tatchell'
+p1151
+aS'Nick Hornby'
+p1152
+aS'Jesse Armstrong'
+p1153
+aS'Simon Blackwell'
+p1154
+aS'Armando Iannucci'
+p1155
+aS'Tony Roche'
+p1156
+aS'Jason Reitman'
+p1157
+aS'Sheldon Turner'
+p1158
+aS'Aaron Sorkin'
+p1159
+aS'Danny Boyle'
+p1160
+aS'Simon Beaufoy'
+p1161
+aS'Michael Arndt'
+p1162
+aS'John Lasseter'
+p1163
+aS'Andrew Stanton'
+p1164
+aS'Lee Unkrich'
+p1165
+ag562
+aS'Debra Granik'
+p1166
+aS'Anne Rosellini'
+p1167
+aS'Alexander Payne'
+p1168
+aS'Nat Faxon'
+p1169
+aS'Jim Rash'
+p1170
+ag529
+aS'George Clooney'
+p1171
+aS'Grant Heslov'
+p1172
+aS'Beau Willimon'
+p1173
+aS'Steven Zaillian'
+p1174
+aS'Aaron Sorkin'
+p1175
+aS'Stan Chervin'
+p1176
+aS"Bridget O'Connor"
+p1177
+aS'Peter Straughan'
+p1178
+aS'Chris Terrio'
+p1179
+aS'Lucy Alibar'
+p1180
+aS'Benh Zeitlin'
+p1181
+ag1122
+aS'Tony Kushner'
+p1182
+aS'David O. Russell'
+p1183
+aS'John Ridley'
+p1184
+aS'Richard Linklater'
+p1185
+aS'Julie Delpy'
+p1186
+aS'Ethan Hawke'
+p1187
+aS'Billy Ray'
+p1188
+aS'Steve Coogan'
+p1189
+aS'Jeff Pope'
+p1190
+aS'Terence Winter'
+p1191
+aS'Graham Moore'
+p1192
+aS'Jason Hall'
+p1193
+ag481
+aS'Anthony McCarten'
+p1194
+ag613
+aS'Adam McKay'
+p1195
+aS'Charles Randolph'
+p1196
+ag1152
+aS'Phyllis Nagy'
+p1197
+aS'Drew Goddard'
+p1198
+aS'Emma Donoghue'
+p1199
+aS'Eric Heisserer'
+p1200
+aS'August Wilson'
+p1201
+aS'Allison Schroeder'
+p1202
+aS'Theodore Melfi'
+p1203
+aS'Luke Davies'
+p1204
+aS'Barry Jenkins'
+p1205
+aS'Tarell Alvin McCraney'
+p1206
+atp1207
+ba(lp1208
+g14
+(g15
+(dp1209
+g17
+I0
+sg18
+I1
+sg19
+I1299
+sg8
+Nstp1210
+Rp1211
+a(dp1212
+S'0.14.1'
+p1213
+(dp1214
+S'axes'
+p1215
+g13
+sS'blocks'
+p1216
+(lp1217
+(dp1218
+S'mgr_locs'
+p1219
+c__builtin__
+slice
+p1220
+(I0
+I1299
+I1
+tp1221
+Rp1222
+sS'values'
+p1223
+g28
+sasstp1224
+bsS'_typ'
+p1225
+S'series'
+p1226
+sg8
+S'writer'
+p1227
+sb.
