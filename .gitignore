@@ -1,3 +1,4 @@
 movies_scrapy/.scrapy/*
 movies_scrapy/movies_data_final.json
 data/*
+.ipynb_checkpoints
